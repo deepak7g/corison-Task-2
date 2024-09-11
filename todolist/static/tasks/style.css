@@ -1,0 +1,11 @@
+body {
+    background-image: url('background.jpg');
+ /* Ensures the image does not repeat */
+   
+}
+
+.dt{
+
+    border-right: 100rem;
+
+}
